@@ -1,0 +1,45 @@
+
+   
+
+.ahmad {
+    color: #ece6e6;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+    margin: 50px auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+body {
+    background-image: url("https://i.pinimg.com/1200x/68/90/22/6890222b0dd4a28d3ccc2c428e02fe6b.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.world{
+    color:#130b00;
+    background-color: rgb(253, 142, 69);
+     padding: 50px;
+    width: 50px;
+     border-radius: 50px;
+     width: 15%;
+     text-align: center;
+}
+#btn{
+    border-radius: 200px;
+    border-color: rgb(155, 2, 10);
+    padding: 20px;
+    font-size: 20px;
+}
+
+#btn:hover{
+    background-color: #FFF7EB;
+}
+#btn{
+      width: 200px;
+    text-align: center;   
+}
